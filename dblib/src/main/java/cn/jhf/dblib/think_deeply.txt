@@ -1,0 +1,12 @@
+Use foxDb:
+    1):I have a request by get UserInfo on server;
+       Formerly we can write a httpRequest to request UserInfo,
+       then we kan use handler or other way to do some thing;
+       But there are so disperse ,
+       now foxDb can do this;
+       FoxDb can concentrate dispose this request and send data to page or db;
+
+    some one:
+        Asynchronous
+
+    2):look this class

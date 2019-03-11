@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <!--配置网络请求类-->
+    <request>cn.jhf.foxdb</request>
+    <!--配置sp包-->
+    <sharedBean>cn.jhf.foxdb</sharedBean>
+    <!--配置数据库对象包-->
+    <dbBean>cn.jhf.foxdb</dbBean>
+    <!--配置是否输出打印sql的日志信息-->
+    <logSql>true</logSql>
+    <!--数据库版本号-->
+    <version>1</version>
+</config>
